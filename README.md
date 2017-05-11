@@ -1,1 +1,1 @@
-# cgx-formatter-cs
+Расширенное решение задачи CGXFormatter сайта codingame.com
